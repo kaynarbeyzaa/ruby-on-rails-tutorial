@@ -1,24 +1,14 @@
-# README
+# Blog project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+*Run server*
 
-* Ruby version
+````
+ruby bin\rails server
+````
 
-* System dependencies
+*Migrate*
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+````
+ruby bin\rails db:migrate
+````
