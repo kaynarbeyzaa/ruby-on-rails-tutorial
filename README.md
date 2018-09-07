@@ -12,3 +12,5 @@ ruby bin\rails server
 ````
 ruby bin\rails db:migrate
 ````
+
+Beyza Kaynar
