@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   get 'articles/list' # articles_list_path
+  get 'welcome/bora' => 'welcome#bora' # welcome_bora_path
 
   resources :articles
 
